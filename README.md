@@ -4,4 +4,4 @@
 I'm a 22 year old whom is a Mobile Developer Enthusiast!
 
 ## 🛠 Skills
-Flutter, SwiftUI, UIKit, Swift, Dart, Javascript, TypeScript, HTML, CSS, Firebase, Node.js, Express.js, MongoDB, Sequelize, MySQL
+Flutter, Dart, SwiftUI, UIKit, Swift, Javascript, TypeScript, Node.js, Express.js, HTML, CSS, Firebase, MongoDB, Sequelize, MySQL
